@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mail-circled" unicode="&#xe800;" d="M0 350q0 207 147 354t353 146 354-146 146-354-146-354-354-146-353 146-147 354z m244-193l512 0-166 174-90-51-90 51z m0 58l131 137-131 74 0-211z m0 256l256-144 256 144 0 72-512 0 0-72z m381-119l131-137 0 211z" horiz-adv-x="1000" />
+
+<glyph glyph-name="heart-circled" unicode="&#xe801;" d="M0 350q0 207 147 354t353 146 354-146 146-354-146-354-354-146-353 146-147 354z m242 76q-4-60 22-111 47-86 189-195 2-2 13-11t18-14 16-5q27 2 119 86 57 49 94 100 70 96 37 203-20 41-57 63t-82 23q-31 0-60-12-29-15-51-43-39 49-103 54t-114-40q-37-37-41-98z" horiz-adv-x="1000" />
+
+<glyph glyph-name="doc-circled" unicode="&#xe802;" d="M0 350q0 207 147 354t353 146 354-146 146-354-146-354-354-146-353 146-147 354z m316-260l368 0 0 520-192 0 0-170-176 0 0-350z m0 393l131 0 0 127-33 0-98-96 0-31z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mail" unicode="&#xe803;" d="M105 845h1152q43 0 74-31t31-74v-785q0-44-31-75t-74-30h-1152q-43 0-74 30t-31 75v785q0 43 31 74t74 31z m69-157l507-423 507 423h-1014z m-17-681h1048v558l-494-412h-61l-493 412v-558z" horiz-adv-x="1360" />
+
+<glyph glyph-name="heart" unicode="&#xe804;" d="M775 849q126 0 207-80t81-207v-60q0-285-532-653-531 367-531 653v60q0 127 81 207t206 80q81 0 134-30t110-99q58 68 111 99t133 30z" horiz-adv-x="1063" />
+
+<glyph glyph-name="cloud" unicode="&#xe805;" d="M1435 132q0-111-75-193t-186-89v-1h-870v1q-7-1-21-1-117 0-200 83t-83 200q0 74 37 139t101 103q-8 32-8 62 0 117 83 200t200 83q103 0 186-70 43 91 129 146t185 54q144 0 246-102t102-246q0-55-16-103 85-29 138-103t52-163z" horiz-adv-x="1435" />
+
+<glyph glyph-name="comment-alt" unicode="&#xe806;" d="M1179 385q0-126-79-233t-215-170-296-62q-122 0-234 39l2-3-357-107q44 59 71 126t31 106l4 38q-106 120-106 266 0 126 79 233t215 169 295 62 296-62 215-169 79-233z" horiz-adv-x="1179" />
+
+<glyph glyph-name="tag" unicode="&#xe807;" d="M1000 714v-270l-595-595-405 405 595 595h270z m-160-160q28 28 28 68t-28 67-67 28-68-28-28-67 28-68 68-28 67 28z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
