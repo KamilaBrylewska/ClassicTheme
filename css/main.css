@@ -46,6 +46,7 @@ div#header .centered {
 div#header .centered h1 {
   font-family: 'Henny Penny', cursive;
   font-family: 'Libre Baskerville', serif;
+  line-height: 0.8;
   font-variant: small-caps;
   font-weight: 400;
   color: #44799a;
@@ -59,7 +60,9 @@ div#header .centered h2 {
   font-family: 'Alex Brush', cursive;
   color: #44799a;
   margin: -30px 0px 20px 0px;
+  line-height: 0.7;
   padding: 0px;
+  padding-top: 40px;
   font-size: 2.3em;
   text-align: center;
 }
@@ -159,6 +162,21 @@ div#contact form input[type=submit] {
 div#contact form input[type=submit]:hover {
   animation: backgroundColorChange 0.5s;
   background-color: #394760;
+}
+@media screen and (max-width: 630px) {
+  div#header .centered h2 {
+    padding-top: 50px;
+  }
+  div#main h3 {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-size: 3.3em;
+  }
+  div#main p {
+    padding: 5px;
+    margin: 5px;
+  }
 }
 @keyframes colorChange {
   0% {
